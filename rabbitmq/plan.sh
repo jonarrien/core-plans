@@ -12,7 +12,7 @@ pkg_dirname=${pkg_distname}-${pkg_version}
 pkg_deps=(
   core/coreutils
   core/glibc
-  core/erlang
+  core/erlang19
 )
 pkg_build_deps=(
   core/bash
